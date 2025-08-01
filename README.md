@@ -9,6 +9,7 @@ Exemple avec une clé de 3 :
 - `A` → `D`
 - `B` → `E`
 - `C` → `F`
+- `D` → `G`
 
 Donc **CHAT** devient **FKDW**.
 
